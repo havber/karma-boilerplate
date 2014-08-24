@@ -1,0 +1,14 @@
+{
+  "bin": {
+    "karma": "node_modules/karma/bin/karma"
+  },
+  "devDependencies": {
+    "karma": "^0.12.22",
+    "karma-chrome-launcher": "^0.1.4",
+    "karma-coverage": "^0.2.6",
+    "karma-growl-reporter": "^0.1.1",
+    "karma-jasmine": "^0.2.2",
+    "karma-osx-reporter": "^0.1.0",
+    "karma-safari-launcher": "^0.1.1"
+  }
+}
