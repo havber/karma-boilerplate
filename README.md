@@ -4,12 +4,8 @@ A boilderplate for web projects set up with the Karma test-runner. Stupid projec
 ###Instructoins
 Clone this repo, then
 
-```
-npm install
-```
+```npm install```
 
 Run tests with
 
-```
-npm test
-```
+```npm test```
