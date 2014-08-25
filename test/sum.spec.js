@@ -1,11 +1,17 @@
 describe("The sum function", function() {
     it('should return correct sum', function() {
-        expect(sum(1,2)).toBe(3) ;
+        assert.equal(sum(1,2), 3) ;
     });
 });
 
 describe('The result function', function() {
     it('should return the correct result', function() {
-        expect(result(4, 5)).toBe(20);
+        assert.equal(result(4, 5), 20);
+    });
+});
+
+describe('The divide function', function() {
+    it('should return correct result', function(){
+        assert.equal(divide(10, 2), 5);
     });
 });
